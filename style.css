@@ -1,0 +1,19 @@
+* {
+    text-align: center;
+    background-color: rgb(159, 249, 225);
+}
+
+a {
+    color: black;
+    
+}
+
+li {
+    margin-bottom: 24px;
+    display: block;
+    margin-left: 0px auto;
+    padding-bottom: 45px;
+}
+img {
+    border-radius: 5%;
+}
